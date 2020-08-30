@@ -1,0 +1,1 @@
+import COMPONENT from './COMPONENT';
